@@ -32,5 +32,8 @@ On Day 21, everything was tied together by organizing the logic into multiple cl
 
 ## 🎞️ Preview
 
-https://github.com/user-attachments/assets/237ab716-93b3-48d3-927e-3bddd5252ea9
+https://github.com/user-attachments/assets/a6fff0ff-aa89-40ff-aab1-90430175fae4
+
+
+
 
