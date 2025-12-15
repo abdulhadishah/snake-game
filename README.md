@@ -39,13 +39,9 @@ On **Day 24**, file handling was introduced to persist data across game sessions
 ## 🎞️ Preview
 
 **Before (without high score):**  
-https://github.com/user-attachments/assets/9c6e19cb-6a3e-4d0c-8887-5b3887ee627c
+<video src="https://github.com/user-attachments/assets/9c6e19cb-6a3e-4d0c-8887-5b3887ee627c" controls width="600"></video>
 
+</br >
 
 **After (with high score system):**  
-https://github.com/user-attachments/assets/d9a9f77d-5afc-4c94-8973-9409af26fb7c
-
-
-
-
-
+<video src="https://github.com/user-attachments/assets/d9a9f77d-5afc-4c94-8973-9409af26fb7c" controls width="600"></video>
