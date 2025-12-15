@@ -32,4 +32,4 @@ On Day 21, everything was tied together by organizing the logic into multiple cl
 
 ## 🎞️ Preview
 
-![Snake Game](snake-game.gif)
+![Snake Game](snake-game.mp4)
